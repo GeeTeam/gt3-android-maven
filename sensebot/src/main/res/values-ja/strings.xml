@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="gt3_geetest_click">ボタンをクリック</string>
+    <!--<string name="gt3_geetest_click_again">ボタンをクリック</string>-->
+    <string name="gt3_geetest_http_error">ネットワーク故障</string>
+    <string name="gt3_geetest_please_verify">クリック</string>
+    <string name="gt3_geetest_success">検証に成功する</string>
+    <string name="gt3_geetest_analyzing">スマート分析中…</string>
+    <string name="gt3_geetest_checking">スマート検証検出中…</string>
+    <string name="gt3_geetest_support">Geetest が技術サポートを提供する</string>
+    <string name="gt3_geetest_pass">検証に合格する</string>
+    <string name="gt3_geetest_http_timeout">ネットワーク故障</string>
+    <string name="gt3_geetest_try_again">リトライする</string>
+    <string name="gt3_geetest_closed">リトライする</string>
+    <!--<string name="gt3_geetest_closed_try_again">リトライする</string>-->
+</resources>

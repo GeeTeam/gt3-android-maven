@@ -1,0 +1,14 @@
+<resources>
+    <string name="gt3_geetest_click">클릭하여 확인</string>
+    <string name="gt3_geetest_http_error">오류</string>
+    <string name="gt3_geetest_please_verify">미완료</string>
+    <string name="gt3_geetest_success">통과했습니다</string>
+    <string name="gt3_geetest_analyzing">확인 중...</string>
+    <string name="gt3_geetest_checking">확인 중</string>
+    <string name="gt3_geetest_support">Geetest 제공</string>
+    <string name="gt3_geetest_pass">통과했습니다</string>
+    <string name="gt3_geetest_http_timeout">시간 만료</string>
+    <string name="gt3_geetest_try_again"> 재시도</string>
+    <string name="gt3_geetest_closed"> Captcha 취소됨</string>
+
+</resources>

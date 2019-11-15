@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="gt3Widget.GifView" parent="@android:style/Widget"/>
+
+    <style name="gt3_dialog_style" parent="android:Theme.Dialog">
+        <!--Dialog的windowFrame框为无-->
+        <item name="android:windowFrame">@null</item>
+        <!--是否浮现在activity之上-->
+        <item name="android:windowIsFloating">true</item>
+        <!--是否半透明-->
+        <item name="android:windowIsTranslucent">true</item>
+        <!--除去title-->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!--显示区域以外是否使用黑色半透明背景-->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!--<item name="android:animationDuration">10000</item>-->
+        <!--设置动画效果-->
+        <!--<item name="android:windowAnimationStyle">@style/gt_dialog_animator_translucent</item>-->
+        <!--设置dialog的背景-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+
+</resources>

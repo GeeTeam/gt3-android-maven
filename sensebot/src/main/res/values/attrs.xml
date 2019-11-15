@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="gt3GifView">
+        <attr name="gt3gif" format="reference" />
+        <attr name="gt3paused" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="gt3CustomTheme">
+        <attr name="gt3gifViewStyle" format="reference" />
+    </declare-styleable>
+</resources>

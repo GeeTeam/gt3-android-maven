@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="gt3_geetest_click">点击按钮进行验证</string>
+    <!--<string name="gt3_geetest_click_again">再次点击按钮进行验证</string>-->
+    <string name="gt3_geetest_http_error">网络连接失败</string>
+    <string name="gt3_geetest_please_verify">请完成上方验证</string>
+    <string name="gt3_geetest_success">验证成功</string>
+    <string name="gt3_geetest_analyzing">智能分析中...</string>
+    <string name="gt3_geetest_checking">智能验证检测中</string>
+    <string name="gt3_geetest_support">极验提供技术支持</string>
+    <string name="gt3_geetest_pass">验证通过</string>
+    <string name="gt3_geetest_http_timeout">网络超时</string>
+    <string name="gt3_geetest_try_again"> 请点击重试</string>
+    <string name="gt3_geetest_closed"> 验证码已关闭</string>
+    <!--<string name="gt3_geetest_closed_try_again">已关闭,请重试</string>-->
+
+</resources>

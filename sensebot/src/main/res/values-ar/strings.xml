@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="gt3_geetest_click">انقر لإتمام التحقق</string>
+    <string name="gt3_geetest_http_error">خطأ</string>
+    <string name="gt3_geetest_please_verify">غير مكتمل</string>
+    <string name="gt3_geetest_success">أكملت العملية بنجاح</string>
+    <string name="gt3_geetest_analyzing">جارِ التحقق...</string>
+    <string name="gt3_geetest_checking">جارِ التحقق</string>
+    <string name="gt3_geetest_support">مدعوم بواسطة Geetest</string>
+    <string name="gt3_geetest_pass">أكملت العملية بنجاح</string>
+    <string name="gt3_geetest_http_timeout">انتهت المهلة</string>
+    <string name="gt3_geetest_try_again"> إعادة المحاولة</string>
+    <string name="gt3_geetest_closed">لقد أُلغي رمز التحقق</string>
+
+</resources>

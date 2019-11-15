@@ -1,0 +1,14 @@
+<resources>
+    <string name="gt3_geetest_click">Hacer clic para comprobar</string>
+    <string name="gt3_geetest_http_error">Error</string>
+    <string name="gt3_geetest_please_verify">Sin completar</string>
+    <string name="gt3_geetest_success">Aprobado</string>
+    <string name="gt3_geetest_analyzing">Comprobando...</string>
+    <string name="gt3_geetest_checking">Comprobando</string>
+    <string name="gt3_geetest_support">Con tecnología de Geetest</string>
+    <string name="gt3_geetest_pass">Aprobado</string>
+    <string name="gt3_geetest_http_timeout">Fin del tiempo de espera</string>
+    <string name="gt3_geetest_try_again"> Reintentar</string>
+    <string name="gt3_geetest_closed"> Se ha cancelado el captcha</string>
+
+</resources>

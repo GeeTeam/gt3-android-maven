@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="gt3_geetest_click">Klik tombol ini untk verifikasi</string>
+    <!--<string name="gt3_geetest_click_again">Klik tombol lagi untu vuerifikasi</string>-->
+    <string name="gt3_geetest_http_error">Kegagalan jaringan internet</string>
+    <string name="gt3_geetest_please_verify">Silahkan menyelesaikan verifikasi</string>
+    <string name="gt3_geetest_success">Proses verifikasi berhasil</string>
+    <string name="gt3_geetest_analyzing">Dlm proses verifikasi…</string>
+    <string name="gt3_geetest_checking">Dlm proses verifikasi…</string>
+    <string name="gt3_geetest_support">Dukungan teknis</string>
+    <string name="gt3_geetest_pass">Melalui verifikasi</string>
+    <string name="gt3_geetest_http_timeout">Batas waktu jaringan habis</string>
+    <string name="gt3_geetest_try_again">Klik coba la=gi</string>
+    <string name="gt3_geetest_closed">Verifikasi tidak aktif</string>
+    <!--<string name="gt3_geetest_closed_try_again">Batalkan</string>-->
+</resources>
