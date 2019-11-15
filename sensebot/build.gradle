@@ -105,8 +105,8 @@ bintray {
     key = properties.getProperty("bintray.apikey")
     configurations = ['archives']
     pkg {
-        repo = "maven"
-        name = "Sensebot"    //发布到JCenter上的项目名字
+        repo = "geetest-sensebot"
+        name = "sensebot"    //发布到JCenter上的项目名字
         websiteUrl = siteUrl
         vcsUrl = gitUrl
         licenses = ["Apache-2.0"]
