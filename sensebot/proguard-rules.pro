@@ -29,9 +29,9 @@
 # 代码混淆压缩比，在0~7之间，默认为5，一般不做修改
 -optimizationpasses 7
 -repackageclasses
-#-obfuscationdictionary gtdic.txt
-#-classobfuscationdictionary gtdic.txt
-#-packageobfuscationdictionary gtdic.txt
+-obfuscationdictionary gtdic.txt
+-classobfuscationdictionary gtdic.txt
+-packageobfuscationdictionary gtdic.txt
 -repackageclasses 'com.geetest.sdk'
 
 # 混合时不使用大小写混合，混合后的类名为小写
@@ -167,6 +167,7 @@
 -keep class com.geetest.sdk.GT3LoadImageView{*;}
 -keep class com.geetest.sdk.views.GT3GeetestButton{*;}
 -keep class com.geetest.sdk.model.beans.GT3ViewColor{*;}
+-keep class com.geetest.sdk.utils.GT3ServiceNode{*;}
 
 #-keep class com.geetest.sdk.protocol.crypto.GT3RSAUtils{*;}
 #-keep class com.geetest.sdk.protocol.crypto.GT3Encryption{*;}
