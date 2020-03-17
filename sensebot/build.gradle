@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
-version = "4.1.9"
+version = "4.1.8.1"
 android {
     compileSdkVersion 28
 
@@ -9,8 +9,8 @@ android {
     defaultConfig {
         minSdkVersion 15
         targetSdkVersion 28
-        versionCode 419
-        versionName "4.1.9"
+        versionCode 4181
+        versionName "4.1.8.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles 'consumer-rules.pro'
@@ -39,7 +39,7 @@ dependencies {
 
     api 'com.squareup.okhttp3:okhttp:3.10.0'
     api 'com.tencent.tbs.tbssdk:sdk:43697'
-    implementation files('libs/geetest_sensebot_android_v4.1.9_20200109.jar')
+    implementation files('libs/geetest_sensebot_android_v4.1.8.1_20200317.jar')
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
