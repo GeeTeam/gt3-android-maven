@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
-version = "4.2.0"
+version = "4.2.1"
 android {
     compileSdkVersion 28
 
@@ -9,8 +9,8 @@ android {
     defaultConfig {
         minSdkVersion 15
         targetSdkVersion 28
-        versionCode 420
-        versionName "4.2.0"
+        versionCode 421
+        versionName "4.2.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles 'consumer-rules.pro'
@@ -39,10 +39,10 @@ dependencies {
 
     api 'com.squareup.okhttp3:okhttp:3.10.0'
     api 'com.tencent.tbs.tbssdk:sdk:43697'
-    implementation files('libs/geetest_sensebot_android_v4.2.0_20200408.jar')
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    implementation files('libs/geetest_sensebot_android_v4.2.1_20200421.jar')
 }
 
 def siteUrl = 'https://github.com/GeeTeam/gt3-android-maven'      // 项目的主页
